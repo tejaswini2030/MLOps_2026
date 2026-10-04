@@ -84,4 +84,4 @@ There are two workflows, and both run on every push to `main`:
 - **Testing with Pytest** runs pytest and saves the results as an XML report, which you can download from the run page under "test-results".
 - **Python Unittests** runs the unittest file.
 
-You can see the results in the Actions tab of this repo, or from the badges at the top of this README.
+You can see the results in the Actions tab of this repo.
