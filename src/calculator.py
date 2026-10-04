@@ -58,8 +58,10 @@ def fun4(x,y,z):
     return total_sum
 
 
-# f1_op = fun1(2,3)
-# f2_op = fun2(2,3)
-# f3_op = fun3(2,3)
-# f4_op = fun4(f1_op,f2_op,f3_op)
+f1_op = fun1(2,3)
+f2_op = fun2(2,3)
+f3_op = fun3(2,3)
+f4_op = fun4(f1_op,f2_op,f3_op)
+
+print("The Final Output is- ",f4_op)
 
