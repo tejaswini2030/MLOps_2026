@@ -1,0 +1,15 @@
+operation,x,y,z,expected
+fun1,2,3,,5
+fun1,-1.5,1.5,,0
+fun2,10,4,,6
+fun2,0,7,,-7
+fun3,4,2.5,,10
+fun3,-3,-3,,9
+fun4,1,2,3,6
+fun4,2.5,2.5,5,10
+divide,10,4,,2.5
+divide,-9,3,,-3
+divide,7,2,,3.5
+power,2,10,,1024
+power,9,0.5,,3
+power,5,0,,1
