@@ -72,10 +72,6 @@ def fun4(x, y, z):
     return total_sum
 
 
-# ---------------------------------------------------------------
-# New functions (my modifications)
-# ---------------------------------------------------------------
-
 def divide(x, y):
     """
     Divides x by y.
